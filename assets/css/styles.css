@@ -129,7 +129,7 @@ nav ul li .link:hover:before{
 }
 /* --------HEADER-------- */
 header{
-    background-image: url(../img/halo-infinite-cover-darkmode.jpg);
+    background-image: url(../img/halo-infinite-cover-darkmode.webp);
     background-size: cover;
     background-position: center center;
     height: 100vh;
@@ -231,7 +231,7 @@ h3{
     text-align: center;
     padding: 50px 0;
     color: white;
-    background-image: url(../img/bg-videos.png);
+    background-image: url(../img/bg-videos.webp);
     background-position: bottom center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -332,7 +332,7 @@ h3{
 /* --------MULTI-PLAYER-------- */
 #multi-player{
     height: 100vh;
-    background-image: url(../img/bg-multiplayer.jpeg);
+    background-image: url(../img/bg-multiplayer.webp);
     display: flex;
     align-items: center;
     justify-content: end;
@@ -390,7 +390,7 @@ h3{
 /* --------FOOTER-------- */
 footer{
     height: 800px;
-    background-image: url(../img/master-chief-darkmode.jpg);
+    background-image: url(../img/master-chief-darkmode.webp);
     background-repeat: no-repeat;
     background-size: cover;
     /* background-position: center; */
@@ -451,7 +451,7 @@ body.light{
 
 }
 body.light header{
-    background-image: url(../img/halo-infinite-cover.jpeg);
+    background-image: url(../img/halo-infinite-cover.webp);
 }
 body.light nav{
     background-color: rgba(255, 255, 255, 0.4);
@@ -518,7 +518,7 @@ body.light #get-the-game h2{
     color: black;
 }
 body.light footer{
-    background-image: url(../img/master-chief.jpg);
+    background-image: url(../img/master-chief.webp);
     
 }
 @media screen and (max-width: 1660px) {
